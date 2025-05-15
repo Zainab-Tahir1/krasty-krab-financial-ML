@@ -60,5 +60,5 @@ With evaluation metrics:
 
 ## 🚀 Deployment 
  Streamlit: [[krasty-krab-financial-ml-gzhj3vfi8qdmhnpnnw676z.streamlit.app]]
- LinkedIn: 
+ LinkedIn: https://www.linkedin.com/posts/zainab-tahir-a751ba2b9_introducing-krusty-krab-financial-ml-activity-7328868843919949827-4c81?utm_source=share&utm_medium=member_ios&rcm=ACoAAExh4HkBkTjGbE76ScFel-nj3tAFymwm2ZI
 
