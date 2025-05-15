@@ -58,9 +58,7 @@ With evaluation metrics:
 
 ---
 
-## 🚀 Deployment
-
-Live on **Streamlit Share**:  
- Streamlit:
+## 🚀 Deployment 
+ Streamlit: krasty-krab-financial-ml-gzhj3vfi8qdmhnpnnw676z.streamlit.app
  LinkedIn: 
 
