@@ -61,9 +61,6 @@ With evaluation metrics:
 ## 🚀 Deployment
 
 Live on **Streamlit Share**:  
-🔗 [Launch App](https://share.streamlit.io/your-username/krusty-krab-financial-ml)
-
----
-
-## 📂 Project Structure
+ Streamlit:
+ LinkedIn: 
 
