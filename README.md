@@ -59,6 +59,6 @@ With evaluation metrics:
 ---
 
 ## 🚀 Deployment 
- Streamlit: krasty-krab-financial-ml-gzhj3vfi8qdmhnpnnw676z.streamlit.app
+ Streamlit: [[krasty-krab-financial-ml-gzhj3vfi8qdmhnpnnw676z.streamlit.app]]
  LinkedIn: 
 
